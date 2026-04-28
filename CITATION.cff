@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Practica: Sistema Endocrino '
+message: 'modelado de sistemas fisiológicos / ingeniería biomédica '
+type: software
+authors:
+  - given-names: Roberto
+    family-names: Chávez González
+    email: l22210884@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de México
+identifiers:
+  - type: url
+    value: 'https://github.com/RobertoChavez10/MSFPractica4'
+repository-code: 'https://github.com/RobertoChavez10/MSFPractica4'
+keywords:
+  - Sistema endocrino
+  - Circuito RLC
+  - Controlador PID
+  - Modelo Matemático
+  - Simulaciones numericas
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-04-27'
